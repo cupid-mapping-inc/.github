@@ -26,10 +26,3 @@ Our approach eliminates costly errors and uncovers new opportunities. We connect
 
 Our diverse team comprises travel industry experts, developers, and data analysts from the United States, Europe, and Morocco.
 
-## Getting Started
-
-Experience the Cupid advantage by signing up instantly! You can start mapping in less than 10 minutes at no cost. Join us today and unlock the benefits of our innovative approach to mapping.
-
----
-
-Ready to experience seamless hotel mapping? Sign up with Cupid and revolutionize your travel company's approach!
