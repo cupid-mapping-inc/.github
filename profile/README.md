@@ -2,6 +2,8 @@
 
 Cupid is a travel technology company specializing in revolutionary hotel mapping solutions. Our comprehensive platform offers fast, precise, and cost-effective solutions to connect the world of hotel IDs. 
 
+![Cupid Logo](images/dashboard.png)
+
 ## About Cupid
 
 We envisioned more than just a hotel mapping tool - Cupid is designed as a comprehensive problem solver. Our platform provides:
